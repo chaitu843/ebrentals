@@ -1,0 +1,7 @@
+.cards{
+    justify-content: space-evenly;
+}
+
+.error{
+    color: red;
+}
