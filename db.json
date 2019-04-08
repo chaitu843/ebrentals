@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "RoyalEnfield Classic 350",
+      "imgUrl": "RE_Classic_350.png",
+      "price": "35",
+      "addedToCart": false
+    },
+    {
+      "id": "2",
+      "name": "RoyalEnfield Classic 500",
+      "imgUrl": "RE_Classic_500.jpg",
+      "price": "50",
+      "addedToCart": false
+    },
+    {
+      "id": "3",
+      "name": "RoyalEnfield Thunderbird 350",
+      "imgUrl": "RE_ThunderBird_350.png",
+      "price": "45",
+      "addedToCart": true
+    },
+    {
+      "id": "4",
+      "name": "RoyalEnfield Thunderbird 500",
+      "imgUrl": "RE_ThunderBird_500.jpg",
+      "price": "60",
+      "addedToCart": true
+    },
+    {
+      "id": "5",
+      "name": "RoyalEnfield Thunderbird 350X",
+      "imgUrl": "RE_ThunderBird_350X.png",
+      "price": "50",
+      "addedToCart": true
+    },
+    {
+      "id": "6",
+      "name": "RoyalEnfield Himalayan",
+      "imgUrl": "RE_Himalayan.jpg",
+      "price": "75",
+      "addedToCart": true
+    }
+  ]
+}
